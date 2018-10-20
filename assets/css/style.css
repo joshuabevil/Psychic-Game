@@ -1,0 +1,43 @@
+.back { 
+    background-color: black
+  }
+
+.jumbotron {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 5px solid #666;
+    padding: 10px;
+    color: white;
+    background-color: lightslategray;
+    border-bottom: 0px;
+}
+
+#game {
+    text-align: center;
+    color: white;
+    margin: auto;
+    border: 5px solid #666;
+    width: 60%;
+    padding: 10px;
+    background-color: lightslategray;
+}
+
+li {
+    list-style-type: none;
+}
+
+h1 {
+    font-family: 'Charmonman', cursive;
+    font-size: 80px;
+}
+
+p {
+    font-size: 16px;
+    font-style: bolder;
+}
+
+.jumbotron p {
+    text-decoration: underline;
+
+}
